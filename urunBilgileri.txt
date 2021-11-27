@@ -1,0 +1,15 @@
+Cep Telefonu,12345,asus ,zenMax,8,2 GB
+Bilgisayar,456,Apple,macbook,Intel i5,4 GB,750 GB,13.3"
+Televizyon,789,samsung,curved ,140 cm,LED,4K ULTRA HD
+Televizyon,753,lg,3d smart led,81 cm,LED,4K ULTRA HD
+Cep Telefonu,1254,Samsung,Galaxy Note 8,13,4 GB
+Cep Telefonu,1810,Lenovo,K6 Note,16,3 GB
+Cep Telefonu,1453,Sony,Xperia Xa,13,2 GB
+Cep Telefonu,1365,Huawei,P9 Lite,13,3 GB
+Bilgisayar,423,Acer,VX5,Intel i5,8 GB,1 TB,15.6"
+Bilgisayar,417,Lenovo , Legion Y520,Intel i5,8 GB,1 TB,15.6"
+Bilgisayar,479,Asus, N580VD-DM160T,Intel i7,16 GB,1 TB,15.6"
+Bilgisayar,403,Casper,F600.7200-4T05X-G,Intel i5,4 GB,1 TB,15.6"
+Televizyon,723,Vestel,32HB5000,81 cm,LED,HD
+Televizyon,789,Philips,32PFS4131/12,81 cm,LED,FULL HD
+Televizyon,706,Samsung,T24D310ES,72 cm,LED,HD
